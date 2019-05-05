@@ -1,0 +1,14 @@
+Russia Arabia 14 06 2018 5 0 1
+Egitto Uruguay 15 06 2018 0 2 2
+Russia Egitto 19 06 2018 1 1 3
+Uruguay Arabia 20 06 2018 1 2 4
+Arabia Egitto 25 06 2019 2 2 5
+Uruguay Russia 25 06 2019 2 1 6
+Arabia Russia 14 06 2019 3 0 7
+Uruguay Egitto 15 06 2019 1 1 8
+Egitto Russia 19 06 2020 0 4 9
+Arabia Uruguay 20 06 2020 1 2 10
+Egitto Arabia 25 06 2020 0 2 11
+Russia Uruguay 25 06 2020 1 1 12
+Egitto Uruguay 29 6 2020 1 2 14
+Russia Egitto 29 6 2020 4 5 15

@@ -1,0 +1,5 @@
+234 20 Ambra 23
+235 30 Legno 12
+236 20 Acciaio 25
+237 15 Oro 40
+238 20 Ghisa 35

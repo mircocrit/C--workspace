@@ -1,0 +1,7 @@
+lunedi		70	36.7	prelievo_sangue
+martedi  	70.5	37	prelievo_sangue
+mercoledi	70.5	36.8	radiografia
+giovedi		70.3	37	ecg
+venerdi 	70	36.8	ecg
+sabato 		69.8	36.8	ecografia
+domenica 	70	37	ecografia

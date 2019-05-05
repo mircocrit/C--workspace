@@ -1,0 +1,6 @@
+Audi#A4#2000#Nero#10:00#1
+FIAT#Punto#1600#Bianca#11:00#14
+Audi#A3#2000#Nero#13:00#5
+FIAT#PANDA#1600#Celeste#12:00#8
+BMW#X5#1300#Nero#18:00#7
+BMW#X3#1200#Fucsia#14:00#2

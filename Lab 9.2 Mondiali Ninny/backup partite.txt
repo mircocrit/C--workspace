@@ -1,0 +1,7 @@
+uruguay russia 2019 06 25 2 1 6
+arabia russia 2019 06 14 3 0 7
+uruguay egitto 2019 06 15 1 1 8
+egitto russia 2020 06 19 0 4 9
+arabia uruguay 2020 06 20 1 2 10
+egitto arabia 2020 06 25 0 2 11
+russia uruguay 2020 06 25 1 1 12

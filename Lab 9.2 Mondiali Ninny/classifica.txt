@@ -1,0 +1,4 @@
+arabia 4 3
+russia 4 2
+uruguay 3 2
+egitto 2 3

@@ -1,0 +1,5 @@
+1234 Andria 13 4
+1235 Barletta 15 5
+1236 Trani 16 6
+1237 Bisceglie 11 1
+1238 Ruvo 12 2
